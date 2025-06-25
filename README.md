@@ -172,6 +172,3 @@ Contributions are welcome! To contribute to this project, please follow these st
 ## Future Work:
 Recommendation Dataset: Lets make it tuned for some latest dataset like spotify.
 Add more personalisation features in the GUI and Experiment with different hyperparameters to further improve both the models performance for more genralised predictions. Additionaly, we need to deploy it in a production environment.
-
-## Contact
-For questions or suggestions, please open an issue or contact [Vvslaxman](mailto:vvslaxman14@gmail.com).
